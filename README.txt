@@ -1,7 +1,9 @@
+ABOUT THIS PROJECT:
+This was the final project for CS 121 (Databases) at Caltech. This assignment demonstrated comfort with SQL queries, DDL and DML, procedures, triggers, and the MySQL Connector for Python.
+
 CS 121 Final Project
 Part K: README
 Jonathan Moul, Khanh Pham
-
 
 INTRODUCTION:
 This project is a command-line simulation of an online store interface. By navigating through the user interface and entering commands, users may simulate viewing and purchasing items if customers or viewing customer activity and setting item prices and inventories if administrators.
